@@ -1,7 +1,6 @@
 """
 Exploratory Data Analysis (EDA) Script
 Project: Cheese & Milk Factory Operations Analytics
-Author: Antigravity AI
 Date: 2026-06-02
 
 This script performs comprehensive exploratory data analysis on the SQLite Star Schema database.
