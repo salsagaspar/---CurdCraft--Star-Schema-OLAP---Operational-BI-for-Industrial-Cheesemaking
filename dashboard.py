@@ -1,7 +1,6 @@
 """
 Plotly Dash Interactive Dashboard
 Project: Cheese & Milk Factory Advanced Analytics Dashboard
-Author: Antigravity AI
 Date: 2026-06-02
 
 This script runs a premium, production-grade interactive dashboard using Plotly Dash.
