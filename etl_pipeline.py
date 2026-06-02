@@ -1,7 +1,6 @@
 """
 ETL Pipeline: Raw CSV to SQLite Star Schema Database
 Project: Cheese & Milk Factory Analytics Portfolio
-Author: Antigravity AI
 Date: 2026-06-02
 
 This script executes the complete ETL (Extract, Transform, Load) pipeline to ingest, 
